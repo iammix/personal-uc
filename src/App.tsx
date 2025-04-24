@@ -9,7 +9,7 @@ function App() {
     <div className="app-container">
       <div className="box">
         <p>
-          Personal Portfolio under Construction.
+        This space is under creative construction...
           <br />
           <br />
           Soon with You! 
