@@ -1,0 +1,32 @@
+.app-container {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  border: 3px solid white;
+  padding: 30px;
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  background-color: black;
+}
+
+.box button {
+  margin-top: 20px;
+  padding: 5px 15px;
+  font-family: monospace;
+  color: white;
+  background: black;
+  border: 2px solid white;
+  cursor: pointer;
+}
+
+.box button:hover {
+  background: white;
+  color: black;
+}
